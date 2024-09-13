@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Pritam Kumar 👋
 
 ## About Me
 I'm a passionate Computer Science student currently pursuing my degree at SZABIST. My journey in programming started with C and C++, and I'm excited to dive deeper into coding and technology. My interests include cloud computing and exploring various domains in computer science. I'm also keen on entrepreneurship and aspire to run my own startup in the future.
