@@ -16,7 +16,7 @@ I'm currently focused on:
 - Exploring opportunities in cloud computing.
 
 ## Projects
-- **[Banking System](link-to-your-repo)**: A simple console-based banking system built in C++.
+- **[Banking System](https://github.com/Pritam-Kumar-911/Banking-transaction-system-.git)**: A simple console-based banking system built in C++.
 - **[CGPA Calculator](link-to-your-repo)**: A project to calculate CGPA using C++.
 
 ## Future Goals
