@@ -15,7 +15,6 @@
 - 🔁 Believe in **logic first, tools later**
 - ☁️ Exploring **Cloud Computing & Software Engineering**
 - ♟️ Chess player — analytical thinking & strategy mindset
-- 🚀 Long-term goal: **Build my own tech startup**
 
 ---
 
@@ -31,21 +30,20 @@
 
 ## 📌 Featured Projects
 
-### 🔢 CGPA Calculator — C++
-- Academic CGPA calculator using arrays & functions
-- Input validation + real grading logic
+### 🤖 AI Portfolio / Chatbot (WIP) — JavaScript + AI
+- LLM-powered AI chatbot replicating **personal CS knowledge & logic**
+- Features: interactive Q&A system, frontend + backend integration
+- Highlights: **chatbot algorithms, AI integration, interactive UI, modular design**
 
-### 📂 File Management System — C
-- File I/O based CRUD system
-- Focus on persistence & memory handling
+### 🗳️ Cloud Powered Voting Management System — Java
+- Full-featured voting system with **admin & voter roles**
+- Features: secure vote casting, counting, input validation, persistent storage
+- Highlights: **OOP design, file handling, modular code, real-world logic**
 
-### 🔁 Sorting Algorithms — Java
-- Bubble, Selection, Quick Sort
-- Time complexity comparison
-
-### 🌳 Binary Search Tree — Java
-- Insert, delete, successor
-- Recursive & iterative traversals
+### 🚗 Ride Sharing Management System — Java
+- Ride-sharing platform simulation with **driver & passenger management**
+- Features: ride booking, fare calculation, ride history, admin controls
+- Highlights: **OOP, data structures, file handling, algorithmic logic**
 
 ---
 
