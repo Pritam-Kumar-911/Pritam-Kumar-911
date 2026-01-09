@@ -22,10 +22,10 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 💡 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=c,java" />
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,figma" />
 
 ---
 
