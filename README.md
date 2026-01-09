@@ -59,6 +59,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-kumar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/pritam-kumar" alt="GitHub Activity Chart" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repos/pritam-kumar?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/pritam-kumar?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/pritam-kumar?style=for-the-badge" />
+</p>
 
 ---
 
