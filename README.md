@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=c,java" />
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,figma,java,bash" />
 
 ---
 
