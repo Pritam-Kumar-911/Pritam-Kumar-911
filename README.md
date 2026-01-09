@@ -53,20 +53,10 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritam-Kumar-911&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pritam-Kumar-911&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Kumar-911&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 <p align="center">
   <img src="https://ghchart.rshah.org/Pritam-Kumar-911" alt="GitHub Activity Chart" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/repos/Pritam-Kumar-911?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Pritam-Kumar-911?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/Pritam-Kumar-911?style=for-the-badge" />
 </p>
 
 ---
