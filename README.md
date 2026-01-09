@@ -52,8 +52,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-kumar&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=pritam-kumar&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritam-Kumar-911&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pritam-Kumar-911&theme=tokyonight" />
 </p>
 
 <p align="center">
