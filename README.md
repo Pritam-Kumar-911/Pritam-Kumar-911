@@ -57,16 +57,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-kumar&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Kumar-911&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/pritam-kumar" alt="GitHub Activity Chart" />
+  <img src="https://ghchart.rshah.org/Pritam-Kumar-911" alt="GitHub Activity Chart" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/pritam-kumar?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/pritam-kumar?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/pritam-kumar?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/Pritam-Kumar-911?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Pritam-Kumar-911?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/Pritam-Kumar-911?style=for-the-badge" />
 </p>
 
 ---
