@@ -45,6 +45,10 @@
 - Features: ride booking, fare calculation, ride history, admin controls
 - Highlights: **OOP, data structures, file handling, algorithmic logic**
 
+### 🛒 Amazon.com Clone — HTML & CSS | 🔗**Live Demo:** [View Project](https://mellifluous-khapse-e4aa36.netlify.app/)
+- Built a **frontend replica of Amazon**, gaining hands-on experience with structuring real-world e-commerce layouts using semantic HTML
+- Learned to implement responsive **grid layouts, product card designs, hover effects, and multi-image displays using pure CSS**
+- Developed skills in **modular CSS organization, Flexbox & Grid for layout management**
 ---
 
 ## 📊 GitHub Analytics
