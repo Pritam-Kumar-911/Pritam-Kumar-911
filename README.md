@@ -51,7 +51,7 @@
 - Learned state management, event listeners, conditional logic, and real-time interface updates
 - Strengthened understanding of JavaScript fundamentals and frontend interactivity
 
-### 🛒 Amazon.com Clone — HTML & CSS | 🔗**Live Demo:** [View Project](https://amazon-com-web-clone-k7a1txk5q-pritam-kumar-911s-projects.vercel.app/)
+### 🛒 Amazon.com Clone — HTML & CSS | 🔗**Live Demo:** [View Project](https://amazon-com-web-clone.vercel.app/)
 - Built a **frontend replica of Amazon**, gaining hands-on experience with structuring real-world e-commerce layouts using semantic HTML
 - Learned to implement responsive **grid layouts, product card designs, hover effects, and multi-image displays using pure CSS**
 - Developed skills in **modular CSS organization, Flexbox & Grid for layout management**
