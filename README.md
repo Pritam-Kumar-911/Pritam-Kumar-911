@@ -45,6 +45,13 @@
 - Features: ride booking, fare calculation, ride history, admin controls
 - Highlights: **OOP, data structures, file handling, algorithmic logic**
 
+### 💱 Currency Converter — HTML, CSS, JavaScript | 🔗 **Live Demo:** [View Project](https://currency-converter-project-gray.vercel.app/)
+- Developed a fully functional currency conversion application with real-time exchange rates
+- Consumed external REST API data and processed nested JSON responses dynamically
+- Designed responsive UI with dynamic flag rendering based on selected country codes
+- Implemented event-driven architecture with separation between UI updates and data processing
+- Practiced deep debugging, asynchronous programming, and dynamic object access patterns
+
 ### ✌️ Rock Paper Scissors Game — HTML, CSS, JavaScript | 🔗**Live Demo:** [View Project](https://rock-paper-scissor-game-phi-ten.vercel.app/)
 - Built an interactive browser-based game using DOM manipulation and event-driven programming
 - Implemented game logic, score tracking, and dynamic UI updates using JavaScript
