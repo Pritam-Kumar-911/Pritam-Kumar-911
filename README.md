@@ -21,10 +21,10 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 💡 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,java" />
+<img src="https://skillicons.dev/icons?i=c,java,javascript" />
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,figma,bash,html,css,javascript,postgresql" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,figma,bash,html,css,postgresql" />
 
 ---
 ## 📌 Featured Projects
