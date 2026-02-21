@@ -27,23 +27,15 @@
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,figma,bash,html,css,javascript,postgresql" />
 
 ---
-
 ## 📌 Featured Projects
 
-### 🤖 AI Portfolio / Chatbot (WIP) — JavaScript + AI
-- LLM-powered AI chatbot replicating **personal CS knowledge & logic**
-- Features: interactive Q&A system, frontend + backend integration
-- Highlights: **chatbot algorithms, AI integration, interactive UI, modular design**
-
-### 🗳️ Cloud Powered Voting Management System — Java
-- Full-featured voting system with **admin & voter roles**
-- Features: secure vote casting, counting, input validation, persistent storage
-- Highlights: **OOP design, file handling, modular code, real-world logic**
-
-### 🚗 Ride Sharing Management System — Java
-- Ride-sharing platform simulation with **driver & passenger management**
-- Features: ride booking, fare calculation, ride history, admin controls
-- Highlights: **OOP, data structures, file handling, algorithmic logic**
+### 🤖 AI-Powered Portfolio Assistant — Vanilla JS, Node.js, Express, Cloud Deployment
+- Engineered an interactive portfolio with an integrated AI chatbot assistant, enabling real-time conversations about projects, skills, and technical background
+- Designed a custom knowledge dataset (knowledge.json) to provide contextual, personalized responses using LLM APIs and optimized prompt handling
+- Built full-stack architecture with HTML, CSS, Vanilla JavaScript frontend and Node.js + Express backend handling API routing, request processing, and AI integration
+- Deployed production-grade application on a Linux cloud VM, configured NGINX reverse proxy for secure routing, caching, and performance optimization
+- Secured deployment using custom domain + SSL/TLS (Let’s Encrypt), enabling HTTPS and production-level security standards
+- Gained hands-on experience with cloud infrastructure, server configuration, reverse proxies, environment management, and production deployment workflows
 
 ### 🌦️ Weather App — HTML, CSS, Vanilla JavaScript | 🔗 **Live Demo:** [View Project](https://weather-app-project-topaz-five.vercel.app/)
 - Developed a real-time weather application using the OpenWeatherMap REST API with dynamic city-based search functionality
@@ -69,6 +61,16 @@
 - Built a **frontend replica of Amazon**, gaining hands-on experience with structuring real-world e-commerce layouts using semantic HTML
 - Learned to implement responsive **grid layouts, product card designs, hover effects, and multi-image displays using pure CSS**
 - Developed skills in **modular CSS organization, Flexbox & Grid for layout management**
+
+### 🗳️ Cloud Powered Voting Management System — Java
+- Full-featured voting system with **admin & voter roles**
+- Features: secure vote casting, counting, input validation, persistent storage
+- Highlights: **OOP design, file handling, modular code, real-world logic**
+
+### 🚗 Ride Sharing Management System — Java
+- Ride-sharing platform simulation with **driver & passenger management**
+- Features: ride booking, fare calculation, ride history, admin controls
+- Highlights: **OOP, data structures, file handling, algorithmic logic**
 ---
 
 ## 📊 GitHub Analytics
