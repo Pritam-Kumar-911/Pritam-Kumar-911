@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=c,java,javascript" />
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,figma,bash,html,css,postgresql" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,figma,bash,html,css,postgresql,nginx" />
 
 ---
 ## 📌 Featured Projects
