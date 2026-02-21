@@ -68,7 +68,7 @@
 - Learned to implement responsive **grid layouts, product card designs, hover effects, and multi-image displays using pure CSS**
 - Developed skills in **modular CSS organization, Flexbox & Grid for layout management**
 
-### 🚗 Ride Sharing Management System — Java
+### 🚗 Ride Sharing Management System — Java, SQLite
 - Ride-sharing platform simulation with **driver & passenger management**
 - Features: ride booking, fare calculation, ride history, admin controls
 - Highlights: **OOP, data structures, file handling, algorithmic logic**
