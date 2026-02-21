@@ -56,17 +56,17 @@
 - Implemented game logic, score tracking, and dynamic UI updates using JavaScript
 - Learned state management, event listeners, conditional logic, and real-time interface updates
 - Strengthened understanding of JavaScript fundamentals and frontend interactivity
-- 
-### 🛒 Amazon.com Clone — HTML & CSS | 🔗**Live Demo:** [View Project](https://amazon-com-web-clone.vercel.app/)
-- Built a **frontend replica of Amazon**, gaining hands-on experience with structuring real-world e-commerce layouts using semantic HTML
-- Learned to implement responsive **grid layouts, product card designs, hover effects, and multi-image displays using pure CSS**
-- Developed skills in **modular CSS organization, Flexbox & Grid for layout management**
 
 ### 🗳️ Cloud-Powered Voting Management System — Java, PostgreSQL, Cloud
 - Built a full-featured voting system with admin and voter roles, secure vote casting, and real-time vote counting
 - Integrated PostgreSQL database for persistent, structured storage with proper schema design and validation
 - Migrated local database to a cloud-hosted PostgreSQL instance on DigitalOcean, enabling remote access and live deployment
 - Applied OOP principles, database connectivity (JDBC), and production-style cloud database management
+
+### 🛒 Amazon.com Clone — HTML & CSS | 🔗**Live Demo:** [View Project](https://amazon-com-web-clone.vercel.app/)
+- Built a **frontend replica of Amazon**, gaining hands-on experience with structuring real-world e-commerce layouts using semantic HTML
+- Learned to implement responsive **grid layouts, product card designs, hover effects, and multi-image displays using pure CSS**
+- Developed skills in **modular CSS organization, Flexbox & Grid for layout management**
 
 ### 🚗 Ride Sharing Management System — Java
 - Ride-sharing platform simulation with **driver & passenger management**
