@@ -45,14 +45,21 @@
 - Features: ride booking, fare calculation, ride history, admin controls
 - Highlights: **OOP, data structures, file handling, algorithmic logic**
 
-### 💱 Currency Converter — HTML, CSS, JavaScript | 🔗 **Live Demo:** [View Project](https://currency-converter-project-gray.vercel.app/)
+### 🌦️ Weather App — HTML, CSS, Vanilla JavaScript | 🔗 **Live Demo:** [View Project](https://weather-app-project-topaz-five.vercel.app/)
+- Developed a real-time weather application using the OpenWeatherMap REST API with dynamic city-based search functionality
+- Implemented asynchronous data fetching using fetch() and processed nested JSON responses to extract temperature, humidity, wind speed, and weather conditions
+- Dynamically updated UI elements including weather icons based on live weather condition mapping logic
+- Applied robust error handling to handle invalid input and prevent runtime crashes
+- Strengthened core JavaScript fundamentals including async/await, DOM manipulation, conditional rendering, and API integration
+
+### 💱 Currency Converter — HTML, CSS, Vanilla JavaScript | 🔗 **Live Demo:** [View Project](https://currency-converter-project-gray.vercel.app/)
 - Developed a fully functional currency conversion application with real-time exchange rates
 - Consumed external REST API data and processed nested JSON responses dynamically
 - Designed responsive UI with dynamic flag rendering based on selected country codes
 - Implemented event-driven architecture with separation between UI updates and data processing
 - Practiced deep debugging, asynchronous programming, and dynamic object access patterns
 
-### ✌️ Rock Paper Scissors Game — HTML, CSS, JavaScript | 🔗**Live Demo:** [View Project](https://rock-paper-scissor-game-phi-ten.vercel.app/)
+### ✌️ Rock Paper Scissors Game — HTML, CSS, Vanilla JavaScript | 🔗**Live Demo:** [View Project](https://rock-paper-scissor-game-phi-ten.vercel.app/)
 - Built an interactive browser-based game using DOM manipulation and event-driven programming
 - Implemented game logic, score tracking, and dynamic UI updates using JavaScript
 - Learned state management, event listeners, conditional logic, and real-time interface updates
