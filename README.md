@@ -30,11 +30,11 @@
 
 ## 🏅 Certifications & Badges
 <p align="center">
-  <img src="https://images.credly.com/size/120x120/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" />
+  <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="120"/>
+  &nbsp;&nbsp;&nbsp; 
+  <img src="https://images.credly.com/size/340x340/images/e9823009-1e67-49d7-8dbe-0361a19a1649/50_Oracle_Cloud_Infrastructure.png" width="120"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://images.credly.com/size/120x120/images/e9823009-1e67-49d7-8dbe-0361a19a1649/50_Oracle_Cloud_Infrastructure.png" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://images.credly.com/size/120x120/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" />
+  <img src="https://images.credly.com/size/340x340/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="120" />
 </p>
 
 ---
