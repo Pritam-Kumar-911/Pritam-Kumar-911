@@ -28,7 +28,6 @@
 
 ---
 
-## 🛠️ 🏅 Certifications & Badges
 ## 🏅 Certifications & Badges
 <p align="center">
   <img src="https://images.credly.com/size/150x150/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" />
