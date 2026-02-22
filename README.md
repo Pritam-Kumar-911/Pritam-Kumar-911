@@ -9,12 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science undergraduate at **SZABIST** (Batch 2028)
-- 🧠 Strong grip on **programming fundamentals & problem-solving**
-- 💻 Experienced in **C, C++, Java** with hands-on DSA practice
-- 🔁 Believe in **logic first, tools later**
-- ☁️ Exploring **Cloud Computing & Software Engineering**
-- ♟️ Chess player — analytical thinking & strategy mindset
+- 🎓 CS undergraduate at **SZABIST**, Karachi — Batch 2028
+- 🏗️ Building backend & cloud foundations from first principles — not just using tools, but understanding what's underneath them
+- ☁️ Hands-on with **AWS, Linux, NGINX, PostgreSQL** — deployed real production applications on cloud infrastructure
+- 🎯 Long-term focus on **Cloud & DevOps Engineering** — infrastructure, systems, and reliability at scale
+- ♟️ Chess player — I think in systems, not just steps
 
 ---
 
