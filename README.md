@@ -27,6 +27,18 @@
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,figma,bash,html,css,postgresql,nginx" />
 
 ---
+
+## 🛠️ 🏅 Certifications & Badges
+## 🏅 Certifications & Badges
+<p align="center">
+  <img src="https://images.credly.com/size/150x150/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.credly.com/size/150x150/images/e9823009-1e67-49d7-8dbe-0361a19a1649/50_Oracle_Cloud_Infrastructure.png" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.credly.com/size/150x150/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" />
+</p>
+
+---
 ## 📌 Featured Projects
 
 ### 🤖 AI-Powered Portfolio Assistant — Vanilla JS, Node.js, Express, Cloud Deployment
@@ -86,21 +98,12 @@
 
 ---
 
-## 🧠 What Makes Me Different
-
-- Logic-first mindset
-- Strong DSA foundations
-- Exam-proven coding performance
-- Long-term industry focus
-
----
-
 ## 🎯 Currently Learning
 
-- Advanced Data Structures
-- Java & OOP
-- Cloud fundamentals (AWS)
-- Communication skills
+🎯 Currently Learning
+
+- Core backend internals — HTTP lifecycle, TCP/IP, socket communication, request/response model
+- AWS core services, IAM, compute, storage, and networking fundamentals
 
 ---
 
