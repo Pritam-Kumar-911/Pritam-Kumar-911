@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Kumar</h1>
-<h3 align="center">Computer Science Student | Strong Foundations | Future Software Engineer</h3>
+<h3 align="center">CS Student | Backend | Cloud | DevOps </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Student+at+SZABIST;C+%7C+C%2B%2B+%7C+Java+%7C+DSA;Building+Logic+Before+Frameworks;Future+Cloud+%26+Software+Engineer&center=true&width=650&height=45" />
