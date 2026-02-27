@@ -2,7 +2,7 @@
 <h3 align="center">Backend | Cloud | DevOps </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Student+at+SZABIST;C+%7C+C%2B%2B+%7C+Java+%7C+DSA;Building+Logic+Before+Frameworks;Future+Cloud+%26+Software+Engineer&center=true&width=650&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Student+at+SZABIST;Building+From+First+Principles;Deploying+Real+Infrastructure;Breaking+Things+to+Understand+Them&center=true&width=650&height=45" />
 </p>
 
 ---
