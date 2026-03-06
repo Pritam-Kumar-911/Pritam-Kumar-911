@@ -54,6 +54,12 @@
 - Designed a lightweight monitoring pipeline using Linux services, logging mechanisms, and automated alert triggers
 - Gained hands-on experience in **hardware–software integration, Linux automation, event-driven system design, and real-time alerting workflows**
 
+### 🗳️ Cloud-Powered Voting Management System — Java, PostgreSQL, Cloud
+- Built a full-featured voting system with admin and voter roles, secure vote casting, and real-time vote counting
+- Integrated PostgreSQL database for persistent, structured storage with proper schema design and validation
+- Migrated local database to a cloud-hosted PostgreSQL instance on DigitalOcean, enabling remote access and live deployment
+- Applied OOP principles, database connectivity (JDBC), and production-style cloud database management
+
 ### 🌦️ Weather App — HTML, CSS, Vanilla JavaScript | 🔗 **Live Demo:** [View Project](https://weather-app-project-topaz-five.vercel.app/)
 - Developed a real-time weather application using the OpenWeatherMap REST API with dynamic city-based search functionality
 - Implemented asynchronous data fetching using fetch() and processed nested JSON responses to extract temperature, humidity, wind speed, and weather conditions
@@ -73,12 +79,6 @@
 - Implemented game logic, score tracking, and dynamic UI updates using JavaScript
 - Learned state management, event listeners, conditional logic, and real-time interface updates
 - Strengthened understanding of JavaScript fundamentals and frontend interactivity
-
-### 🗳️ Cloud-Powered Voting Management System — Java, PostgreSQL, Cloud
-- Built a full-featured voting system with admin and voter roles, secure vote casting, and real-time vote counting
-- Integrated PostgreSQL database for persistent, structured storage with proper schema design and validation
-- Migrated local database to a cloud-hosted PostgreSQL instance on DigitalOcean, enabling remote access and live deployment
-- Applied OOP principles, database connectivity (JDBC), and production-style cloud database management
 
 ### 🛒 Amazon.com Clone — HTML & CSS | 🔗**Live Demo:** [View Project](https://amazon-com-web-clone.vercel.app/)
 - Built a **frontend replica of Amazon**, gaining hands-on experience with structuring real-world e-commerce layouts using semantic HTML
