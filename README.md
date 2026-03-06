@@ -47,6 +47,13 @@
 - Secured deployment using custom domain + SSL/TLS (Let’s Encrypt), enabling HTTPS and production-level security standards
 - Gained hands-on experience with cloud infrastructure, server configuration, reverse proxies, environment management, and production deployment workflows
 
+### 🔥Real-Time Fire Detection & Alerting System — IoT Sensors, Linux, Bash Automation
+- Built an automated fire detection and alert system integrating IoT flame sensors with a Linux-based monitoring environment
+- Implemented event-driven Bash scripts to continuously monitor sensor signals and trigger automated alert workflows
+- Configured SMTP-based email notifications to instantly inform relevant authorities when fire was detected
+- Designed a lightweight monitoring pipeline using Linux services, logging mechanisms, and automated alert triggers
+- Gained hands-on experience in **hardware–software integration, Linux automation, event-driven system design, and real-time alerting workflows**
+
 ### 🌦️ Weather App — HTML, CSS, Vanilla JavaScript | 🔗 **Live Demo:** [View Project](https://weather-app-project-topaz-five.vercel.app/)
 - Developed a real-time weather application using the OpenWeatherMap REST API with dynamic city-based search functionality
 - Implemented asynchronous data fetching using fetch() and processed nested JSON responses to extract temperature, humidity, wind speed, and weather conditions
