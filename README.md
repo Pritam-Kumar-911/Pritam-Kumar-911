@@ -54,6 +54,13 @@
 - Designed a lightweight monitoring pipeline using Linux services, logging mechanisms, and automated alert triggers
 - Gained hands-on experience in **hardware–software integration, Linux automation, event-driven system design, and real-time alerting workflows**
 
+### 🖥️ ZENITH OS Shell — x86 Assembly (MASM), DOSBox, Unix-Style Shell
+- Built a Linux Bash-inspired interactive shell from scratch in x86 Assembly Language — simulating how real operating systems handle user commands under the hood
+- Implemented **8 core shell commands** — `ls`, `cd`, `mkdir`, `echo`, `clear`, `help`, `exit` — alongside file handling operations including `create`, `write`, and `rm`, closely mirroring real Unix shell behavior
+- Designed the command parsing and input processing logic manually using string comparison and memory buffers — without any standard libraries or high-level abstractions
+- Running on DOSBox, the shell handles real filesystem operations — creating, deleting, and navigating directories and files — through direct DOS system calls
+- Strengthened foundational understanding of **how operating systems work, how commands are processed at the hardware level, and how memory and CPU registers drive program execution**
+
 ### 🗳️ Cloud-Powered Voting Management System — Java, PostgreSQL, Cloud
 - Built a full-featured voting system with admin and voter roles, secure vote casting, and real-time vote counting
 - Integrated PostgreSQL database for persistent, structured storage with proper schema design and validation
