@@ -39,6 +39,14 @@
 ---
 ## 📌 Featured Projects
 
+### 🧠 MeetMind — React 18, Node.js, Gemini 2.0 Flash, Google Cloud Run | [View Project Live](https://meetmind-frontend-992589154151.us-central1.run.app/)
+
+- Built a Meeting Intelligence Platform platform that captures live lectures and meetings via microphone, browser tab audio, or file upload — and transforms them into summaries, action - items, key decisions, quiz questions, and follow-up email drafts automatically
+- Integrated Google Cloud Speech-to-Text with speaker diarization for multi-speaker transcription and FFmpeg for audio extraction across MP3, MP4, WAV and M4A formats
+- Connected Google Gemini 2.0 Flash to analyze full transcripts and return structured JSON output covering all meeting intelligence features
+- Built a production-grade Express REST API with four endpoints and automatic retry logic for rate limiting, deployed frontend and backend independently on Google Cloud Run via containerized Docker builds
+- Gained hands-on experience with real-time audio processing, AI pipeline architecture, Cloud Run containerization, and full-stack production deployment on Google Cloud
+
 ### 🤖 AI-Powered Portfolio Assistant — Vanilla JS, Node.js, Express, Cloud Deployment
 - Engineered an interactive portfolio with an integrated AI chatbot assistant, enabling real-time conversations about projects, skills, and technical background
 - Designed a custom knowledge dataset (knowledge.json) to provide contextual, personalized responses using LLM APIs and optimized prompt handling
