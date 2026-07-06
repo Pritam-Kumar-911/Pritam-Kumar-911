@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Kumar</h1>
-<h3 align="center">Backend | Cloud | DevOps </h3>
+<h3 align="center">Backend | AI Systems | Cloud Engineering </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Student+at+SZABIST;Building+From+First+Principles;Deploying+Real+Infrastructure;Breaking+Things+to+Understand+Them&center=true&width=650&height=45" />
