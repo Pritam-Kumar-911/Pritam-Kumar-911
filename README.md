@@ -47,13 +47,14 @@
 - Built a production-grade Express REST API with four endpoints and automatic retry logic for rate limiting, deployed frontend and backend independently on Google Cloud Run via containerized Docker builds
 - Gained hands-on experience with real-time audio processing, AI pipeline architecture, Cloud Run containerization, and full-stack production deployment on Google Cloud
 
-### 🎬 PlotPoint — AI Semantic Movie Discovery | PostgreSQL, Vector Search, Gemini Embeddings, RAG
+### 🎬 PlotPoint — AI Semantic Movie Discovery | PostgreSQL, Vector Search, Gemini Embeddings, RAG, Docker
 
 - Built an AI-powered semantic search engine that enables users to discover movies through natural language descriptions, emotions, and storylines instead of relying on exact keywords or titles.
-- Implemented vector search using Google Gemini Embeddings and PostgreSQL pgvector, storing 3072-dimensional embeddings and retrieving semantically similar movies using cosine similarity.
-- Engineered a Retrieval-Augmented Generation (RAG) pipeline that combines semantic retrieval with Google Gemini to generate contextual explanations for recommendations, supporting English and Roman Urdu movie queries.
-- Designed and normalized a PostgreSQL database with 15 interconnected tables, modeling users, movies, genres, cast, ratings, reviews, favorites, watchlists, and search analytics while maintaining referential integrity.
-- Developed a full-stack application with RESTful APIs and a responsive frontend, gaining hands-on experience in vector databases, embedding models, semantic retrieval, database design, AI integration, and scalable backend architecture.
+- Implemented vector search using Google Gemini Embeddings and PostgreSQL pgvector, storing 3072-dimensional embeddings and retrieving semantically similar movies using cosine similarity, ranked by match score.
+- Sourced and ingested movie metadata — posters, ratings, cast, and genres — from the TMDB API, integrating rate-limited external data into the embedding and relational pipeline.
+- Engineered a Retrieval-Augmented Generation (RAG) pipeline that combines semantic retrieval with Google Gemini to generate contextual explanations for recommendations, supporting English and Roman Urdu movie queries with cross-lingual semantic matching.
+- Designed and normalized a PostgreSQL database with 16 interconnected tables, modeling users, movies, genres, cast, ratings, reviews, favorites, watchlists, and search analytics while maintaining referential integrity.
+- Containerized the full stack into three independent Docker services (Nginx frontend, Node.js/Express backend, PostgreSQL+pgvector database) orchestrated with Docker Compose, and deployed to a DigitalOcean VM for a reproducible, one-command setup.
 
 ### 🖥️ ZENITH OS Shell — x86 Assembly (MASM), DOSBox, Unix-Style Shell
 - Built a Linux Bash-inspired interactive shell from scratch in x86 Assembly Language — simulating how real operating systems handle user commands under the hood
