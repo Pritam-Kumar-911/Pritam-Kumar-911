@@ -48,7 +48,7 @@
 - Designed and normalized a PostgreSQL database with 16 interconnected tables, modeling users, movies, genres, cast, ratings, reviews, favorites, watchlists, and search analytics while maintaining referential integrity.
 - Containerized the full stack into three independent Docker services (Nginx frontend, Node.js/Express backend, PostgreSQL+pgvector database) orchestrated with Docker Compose, and deployed to a DigitalOcean VM for a reproducible, one-command setup.
 
-### 🧠 MeetMind — React 18, Node.js, Gemini 2.0 Flash, Google Cloud Run | [View Project Live](https://meetmind-frontend-992589154151.us-central1.run.app/)
+### 🧠 MeetMind — React 18, Node.js, Gemini 2.0 Flash, Google Cloud Run 
 
 - Built a Meeting Intelligence platform that captures live lectures and meetings via microphone, browser tab audio, or file upload — and transforms them into summaries, action - items, key decisions, quiz questions, and follow-up email drafts automatically
 - Integrated Google Cloud Speech-to-Text with speaker diarization for multi-speaker transcription and FFmpeg for audio extraction across MP3, MP4, WAV and M4A formats
